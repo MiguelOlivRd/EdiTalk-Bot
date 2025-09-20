@@ -1,0 +1,40 @@
+curl -X POST http://localhost:8080/completion \
+     -H "Content-Type: application/json" \
+     -d '{
+           "prompt": "O que é League of Legends?",
+           "max_tokens": 100
+         }'
+
+
+/root/llama.cpp/build/bin/llama-server --host 0.0.0.0 --model /root/llama.cpp/models/granite-3.3-8b-instruct-Q2_K.gguf
+2>&1 | tee output.log
+
+
+/root/llama.cpp/build/bin/llama-server --host 0.0.0.0 --model /root/llama.cpp/models/deepseek-coder-6.7b-instruct.Q2_K.gguf
+
+ibm_con
+sudo ip link set dev tun0 mtu 1300
+
+ssh -C -o RekeyLimit=1G -o Ciphers=aes128-ctr -L 8080:localhost:8080 root@192.168.189.57
+ssh -C -o RekeyLimit=1G -o Ciphers=aes128-ctr -L 5432:localhost:5432 root@192.168.189.57
+ssh -C -o RekeyLimit=1G -o Ciphers=aes128-ctr root@192.168.189.57
+
+ssh root@192.168.189.57
+
+scp root@192.168.189.57:/root/miguel/inference_spider/ ./
+
+
+ssh -o TCPRcvBufPoll=yes -o RekeyLimit=1G -L 8080:localhost:8080 root@192.168.189.57
+
+scp -r <folder> root@192.168.189.57:/root/miguel/inference_spider
+
+scp root@192.168.189.57:/root/miguel/inference_spider/ ./
+
+
+ssh -L 8080:localhost:8080 root@192.168.189.57
+ssh -L 5432:localhost:5432 root@192.168.189.57
+
+scp -r demo/ root@192.168.189.57:/root/
+
+Segue acesso criado na P10 para estes testes do InstructLab: 192.168.189.73
+root/ibm01ibm

@@ -1,0 +1,486 @@
+EDITAL No 36/2024
+
+Processo no 23096.065074/2024-51
+
+Seleção para:
+
+( ) Doutorado ( X ) Mestrado Acadêmico ( ) Mestrado Profissional
+
+A Pró-Reitoria de Pós-Graduação, com base na Resolução N° 03 de 2016 da Câmara Superior de Pós-
+Graduação da UFCG, na Portaria Normativa No 4 de 04 de 2018 do Ministério do Planejamento e Gestão de
+
+Pessoas, na Resolução No 02 de 2020 da Câmara Superior de Pós-Graduação da UFCG, na Resolução No 04
+de 2016 do Programa de Pós-Graduação em Ciência da Computação e na deliberação do Colegiado do
+Programa de Pós-Graduação em Ciência da Computação - PPGCC, em reunião extraordinária ocorrida em
+24 de Setembro de 2024, torna público aos interessados o período de inscrição, requisitos e critérios para
+seleção de candidatos para 44 vagas de MESTRADO do Programa de Pós-Graduação em Ciência da
+Computação da UASC/CEEI/UFCG.
+1. DAS DISPOSIÇÕES GERAIS
+1.1 O processo seletivo ocorrerá de 16 de Outubro de 2024 a 08 de Novembro de 2024 (vide Cronograma
+no Anexo I).
+1.2 As vagas oferecidas são para ingresso no 1o semestre do calendário acadêmico de 2025 do PPGCC. O
+período de matrícula para 2025.1 será de 25 a 26 de Fevereiro de 2025.
+1.3 Eventual impugnação quanto às normas ou impedimentos dos membros da comissão de seleção do
+presente Edital deve ser realizada no prazo de 5 (cinco) dias, contados de sua publicação.
+1.3.1 As impugnações, devidamente fundamentadas, deverão ser encaminhadas via processo aberto no
+Sistema EIetrônico de Informação - SEI da UFCG e enviados para COPIN-PRPG.
+1.3.2. Não serão aceitos pedidos de impugnação intempestivos ou promovidos por outros meios.
+1.3.3. Os pedidos de impugnação infundados ou fora do prazo estipulado serão indeferidos e não caberá
+recurso administrativo da decisão sobre a impugnação.
+2. ÁREA DE CONCENTRAÇÃO E DE PESQUISA
+As vagas oferecidas mediante este edital estão distribuídas na área de concentração de Ciência da
+Computação nas seguintes áreas de pesquisa:
+a) Engenharia de Software
+b) Inteligência Artificial
+d) Redes e Sistemas Distribuídos
+e) Sistemas de Informação e Banco de Dados.
+3. HABILITAÇÕES E REQUISITOS DOS CANDIDATOS
+Estão habilitados à inscrição os(as) candidatos(as) que estejam em dia com suas obrigações eleitorais e que
+sejam portadores(as) de diploma de curso de nível superior (ou certificado de conclusão) em Ciência da
+Computação ou em áreas afins da Computação, ou que estejam aptos(as) a obtê-lo até o último dia de
+matrícula do período 2025.1, de acordo com o calendário acadêmico do PPGCC.
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 1/11
+
+Áreas afins da Computação podem incluir: Engenharia de Software, Sistemas de Informação, Engenharia da
+Computação, Licenciatura em Computação, Análise e Desenvolvimento de Sistemas e Sistemas para
+Internet.
+Para os(as) candidatos(as) com formação em outras áreas, a análise curricular e, consequentemente, a
+aceitação da inscrição no Programa serão realizadas pela comissão de seleção.
+4. DOCUMENTOS PARAA INSCRIÇÃO
+A inscrição será efetuada exclusivamente via Internet, mediante formulário digital, disponível na página do
+
+programa (https://www.computacao.ufcg.edu.br/mestrado-e-doutorado/processo-de-selecao/processo-de-
+seleção-2025-1-mestrado-e-doutorado-ppgcc), e requer o envio da documentação comprobatória, conforme
+
+descrito nesta seção. Documentos ilegíveis ou que não possam ser validados não serão considerados pela
+comissão.
+O PPGCC não se responsabilizará pelo não preenchimento do formulário de inscrição por motivos de ordem
+técnica (computadores dos candidatos, falhas de comunicação, congestionamento das linhas de
+comunicação) ou outros fatores que impossibilitem a transferência dos dados.
+4.1 A inscrição requer o preenchimento do formulário de inscrição e a apresentação dos seguintes
+documentos:
+i) Cópia do diploma de curso de nível superior (frente e verso) de acordo com o definido na Seção 3; ou
+certificado de conclusão datado e assinado pela coordenação de curso da instituição, em caráter provisório;
+ou documento datado e assinado pela coordenação de curso da IES de que seja aluno regularmente
+matriculado em um curso de graduação e que esteja apto a concluir o curso até o último dia de matrícula do
+período 2025.1, de acordo com o calendário acadêmico do PPGCC;
+ii) Cópia digitalizada (frente e verso quando for o caso) de documento de identificação com foto e número
+do CPF (por exemplo RG ou CNH);
+iii) Cópia do passaporte (para estrangeiros);
+iv) Comprovante de aptidão para concorrência restrita (Anexo IV) para aqueles/as que optarem por tal
+concorrência.
+4.2. Da Escolha da Área de Pesquisa
+Os(As) candidatos(as) deverão escolher uma área de pesquisa dentre as elencadas na Seção 2 acima.
+4.3. Das Informações Curriculares
+A pontuação do(a) candidato(a) será baseada nas informações curriculares. A avaliação do currículo do
+candidato incluirá três critérios: i) desempenho acadêmico, ii) POSCOMP e iii) publicações.
+4.4. Da Documentação Comprobatória para os Critérios da Seleção
+4.4.1. Documentação Comprobatória para o Critério Desempenho Acadêmico
+Cópia do Histórico Escolar do Curso de Graduação, assinado por representante da instituição responsável
+pela emissão desse documento, ou contendo assinatura digital emitida pela instituição. Caso o candidato
+ainda esteja cursando a Graduação, a data de emissão do Histórico Escolar deve ser igual ou posterior a
+16/10/2024.
+4.4.2. Documentação Comprobatória para o Critério POSCOMP
+Boletim de desempenho do exame nacional POSCOMP, promovido pela Sociedade Brasileira de
+Computação. Serão aceitos apenas os exames POSCOMP realizados de 2019 a 2024.
+4.4.3. Documentação Comprobatória para o Critério Publicações
+Para cada artigo científico publicado deve ser enviado o link de página web que comprove a publicação.
+Alternativamente, apenas no caso de indisponibilidade de link para comprovação de artigo publicado, deve
+ser enviada a cópia da publicação como comprovação, juntamente com capa e sumário do veículo de
+publicação.
+Para cada artigo científico aceito para publicação deve ser enviada a cópia da publicação como
+comprovação, juntamente com a carta/email de aceitação. Não serão considerados artigos com data de
+aceitação posterior ao prazo final de inscrição indicado no Cronograma (Anexo I).
+4.5. Do Envio da Documentação Comprobatória
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 2/11
+
+O envio da documentação comprobatória relacionada neste edital deverá ser realizada no formulário
+
+eletrônico de inscrição disponível na página do programa (https://www.computacao.ufcg.edu.br/mestrado-e-
+doutorado/processo-de-selecao/processo-de-seleção-2025-1-mestrado-e-doutorado-ppgcc);. O(A)
+
+candidato(a) deve seguir as orientações a seguir:
+a) Anexar um único arquivo nomeado identificacao.pdf, no formato PDF, contendo toda a
+documentação comprobatória relacionada na Seção 4.1 itens i) ao iv);
+b) Anexar um único arquivo nomeado historico_escolar.pdf, no formato PDF, contendo a documentação
+comprobatória sobre o desempenho acadêmico relacionada na Seção 4.4.1;
+c) Anexar um único arquivo nomeado poscomp.pdf, no formato PDF, contendo a documentação
+comprobatória sobre o POSCOMP relacionada na Seção 4.4.2;
+d) Caso necessário, anexar um único arquivo nomeado publicacoes.pdf, no formato PDF, contendo a
+documentação comprobatória sobre publicações relacionadas na Seção 4.4.3.
+Deve-se ainda considerar que:
+Não serão aceitos links para download de documentação em nenhum tipo de repositório ou qualquer tipo
+de compartilhamento de link;
+Não será permitida a submissão e/ou complementação de documentos após o término das inscrições, que
+ocorrerá às 23h59 do dia 08/11/2024 (horário de Brasília);
+As informações preenchidas e a documentação enviada no formulário de inscrição serão conferidas pelo
+servidor que receber a inscrição, a qual será deferida ou indeferida pela comissão de seleção. A
+
+divulgação será realizada na página do programa (https://www.computacao.ufcg.edu.br/mestrado-e-
+doutorado/processo-de-selecao/processo-de-seleção-2025-1-mestrado-e-doutorado-ppgcc);
+
+A ausência de qualquer um dos documentos solicitados nas alíneas i, ii e iii da Seção 4.1 implicará no
+indeferimento da inscrição;
+A ausência do comprovante de aptidão para concorrência restrita (Anexo IV) implicará na concorrência
+às vagas destinadas à ampla concorrência, mesmo que o(a) candidato(a) tenha optado por concorrência
+restrita no formulário de inscrição;
+A ausência de documentos e/ou o fornecimento de informações imprecisas ou erradas no formulário de
+inscrição que impeçam a comissão de seleção de comprovar itens na avaliação das informações
+curriculares, conforme listados na Seção 4.5, implicará na não contabilização de pontos para o respectivo
+item.
+5. DA SELEÇÃO
+O processo de seleção do Mestrado ocorrerá considerando o histórico da graduação, publicações, e
+POSCOMP do candidato, como descrito a seguir.
+5.1. Sobre o Critério Desempenho Acadêmico
+Esse critério equivale à nota do Coeficiente de Rendimento Acadêmico (CRA) do(a) candidato(a) em sua
+graduação (em escala de 0 a 10), comprovado de acordo com a Seção 4.5.1. Caso o histórico do(da)
+candidato(a) não apresente CRA ou equivalente, para fins desta Seleção, o cálculo será realizado seguindo o
+
+indicado no seguinte endereço eletrônico: https://pre.ufcg.edu.br/pre/manual-do-aluno/168-indicadores-
+academicos.
+
+Caso o histórico do aluno apresente conceitos em lugar de notas e a conversão seja realizada no próprio
+histórico, ou haja uma indicação no próprio histórico de como realizar a conversão, essa será a conversão
+adotada. Caso não haja uma indicação no histórico de como realizar a conversão, a média escolar será
+computada de acordo com o Anexo II. Após a conversão, o cálculo do CRA seguirá como indicado
+anteriormente.
+5.2. Sobre o Critério POSCOMP
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 3/11
+
+Esse critério equivale à nota do POSCOMP normalizada (em escala de 0 a 10) pelo Z-Score calculado com
+base na média e desvio padrão do ano em que o(a) candidato(a) fez o POSCOMP, comprovado de acordo
+com a Seção 4.4.2. O Z-Score será limitado inferiormente a 0 (zero) e superiormente a 2 (dois). O cálculo do
+Z-Score e da nota do POSCOMP é dado por:
+
+Z-Score = (NPC1 - NPC2)/NPC3
+POSCOMP = 5 + 2,5 * Z-Score
+
+onde:
+Métrica Comprovação
+NPC1 = Nota no POSCOMP;
+NPC2 = Média das notas do POSCOMP no ano referente à nota NPC1;
+NPC3 = Desvio padrão das notas do POSCOMP no ano referente à nota NPC1;
+
+Vide Seção 4.4.2.
+
+Serão aceitos apenas os exames POSCOMP realizados de 2019 a 2024.
+
+5.3. Sobre o Critério Publicações:
+O(A) candidato(a) terá nota 10 (dez) neste critério se, e somente se, tiver sido primeiro(a) autor(a) em
+alguma publicação em evento (principal, satélite ou workshop) ou periódico classificado como A1, A2, A3
+ou A4 conforme o último QUALIS de referência da CAPES, cuja publicação ou aceite se deu até o último
+dia de inscrição, comprovado de acordo com a Seção 4.5.3. Para eventos satélites e workshops será
+considerado o QUALIS do evento principal associado. Artigos fora da classificação do QUALIS
+estabelecida acima, resumos, resumos expandidos ou artigos curtos não serão considerados.
+5.4. Da Nota Final
+A pontuação final do(a) candidato(a) será aferida pela soma ponderada das notas atribuídas para cada
+critério, observando os pesos atribuídos, conforme tabela e fórmula a seguir.
+
+Critérios Nota Peso
+
+Desempenho
+acadêmico 0 a 10 0,75
+
+POSCOMP 0 a 10 0,15
+
+Publicações 0 a 10 0,10
+
+Pontuação = 0,75 * Dempenho Acadêmico + 0,15 * POSCOMP + 0,10 * Publicações
+6. DAAPROVAÇÃO E CLASSIFICAÇÃO
+i) O resultado do Processo Seletivo será expresso pela pontuação final alcançada, de acordo com os critérios
+definidos na Seção 5;
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 4/11
+
+ii) O ponto de corte na seleção dos(as) candidatos(as) é de 5 (cinco) pontos;
+iii) Candidatos(as) com pontuação abaixo do ponto de corte serão automaticamente desclassificados;
+iv) Os(As) candidatos(as) inscritos para cada área de pesquisa, com pontuação acima ou igual ao ponto de
+corte, serão classificados(as) em ordem decrescente da pontuação obtida dentro da área escolhida.
+v) Os(As) primeiros(as) candidatos(as) de maior pontuação dentro da quantidade total de vagas da área de
+pesquisa, serão aprovados(as). A lista de aprovados(as), para cada área de pesquisa, será publicada na página
+do Programa, no prazo indicado no Cronograma (Anexo I);
+vi) Os(As) candidatos(as) que não forem aprovados(as) ficarão na lista de espera, da área de pesquisa
+escolhida no momento da inscrição, seguindo a ordem de classificação da área (vide Seção 7).
+vii) Em caso de empate na pontuação final dos(as) candidatos(as), terá preferência o(a) candidato(a) que, na
+seguinte ordem:
+a) Obtiver maior pontuação no critério POSCOMP, definido em 5.2;
+b) Obtiver maior pontuação no critério desempenho acadêmico definido em 5.1;
+c) Obtiver maior pontuação no critério publicações, definido em 5.3;
+d) Persistindo o empate, terá preferência o candidato com maior idade.
+viii) Cada candidato(a) poderá ser alocado(a) para apenas uma área de pesquisa;
+ix) Os(As) candidatos(as) aprovados(as) deverão confirmar o interesse em participar do programa, enviando
+e-mail para selecao.ppgcc@copin.ufcg.edu.br dentro do prazo indicado no Cronograma (Anexo I).
+7. DA LISTA DE ESPERA
+i) A lista de espera, para cada área de pesquisa, será publicada na página do
+
+programa (https://www.computacao.ufcg.edu.br/mestrado-e-doutorado/processo-de-selecao/processo-de-
+seleção-2025-1-mestrado-e-doutorado-ppgcc), no prazo indicado no Cronograma (Anexo I);
+
+ii) Candidatos(as) da lista de espera poderão ser convocados(as) caso haja desistência de candidatos
+aprovados ou surgimento de novas vagas na mesma área de pesquisa, respeitando a ordem de classificação
+da lista de espera da área;
+iii) Candidatos(as) na lista de espera de uma área de pesquisa poderão solicitar a entrada no final da lista de
+espera de uma outra área de pesquisa, enviando e-mail para selecao.ppgcc@copin.ufcg.edu.br dentro do
+prazo indicado no Cronograma (Anexo I);
+iv) Cada candidato(a) não poderá estar em mais de uma lista de espera de área de pesquisa ao mesmo tempo;
+v) As chamadas da lista de espera e seus respectivos procedimentos e cronogramas, serão publicadas na
+
+página do programa (https://www.computacao.ufcg.edu.br/mestrado-e-doutorado/processo-de-
+selecao/processo-de-seleção-2025-1-mestrado-e-doutorado-ppgcc).
+
+8. DA INTERPOSIÇÃO DE RECURSOS
+i) Será garantido ao(à) candidato(a) o direito de entrar com pedido de recurso do resultado em cada etapa de
+caráter eliminatório ou classificatório do processo seletivo, obedecendo aos prazos estabelecidos no
+cronograma.
+ii) Os recursos deverão ser enviados por e-mail para selecao.ppgcc@copin.ufcg.edu.br dentro do prazo
+indicado no Cronograma (Anexo I). Cada recurso será avaliado pela comissão de seleção que emitirá parecer
+objetivo de acordo com a solicitação do(a) candidato(a).
+iii) Não serão aceitos pedidos de recurso fora dos prazos estabelecidos no Cronograma (Anexo I).
+iv) Caberá interposição de recurso à Câmara Superior de Pós-Graduação nos casos em que o pedido de
+reconsideração não for favorável ao candidato(a).
+9. DA ALOCAÇÃO DE ORIENTADORES AOS CANDIDATOS CLASSIFICADOS E ALOCADOS A
+UMA ÁREA DE PESQUISA
+i) Cada orientador(a) terá um número máximo de vagas, por área de pesquisa, a ser preenchido para o
+mesmo, conforme indicado no Anexo III deste edital. A alocação se dará respeitando-se a área de pesquisa ao
+qual o(a) candidato(a) foi alocado(a), a ordem de classificação dos candidatos(as) dentro de cada área de
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 5/11
+
+pesquisa, o número de vagas por orientador(a) e a ordem de prioridade dos orientadores informada pelo(a)
+candidato(a) classificado(a);
+ii) Cada candidato(a) aprovado(a) e classificado(a) dentro do limite de vagas de uma área de pesquisa, será
+alocado(a) ao orientador(a) de maior prioridade informado no formulário de inscrição que ainda possua vaga
+disponível no momento da alocação.
+10. DO RESULTADO
+A divulgação do resultado do processo seletivo, com os nomes dos(as) candidatos(as) aprovados(as) e
+classificados(as) em ordem decrescente das pontuações finais obtidas no processo seletivo, será realizada na
+página do Programa em lista por Área de Pesquisa, apresentando os candidatos(as) aprovados(as)
+classificados(as) e candidatos(as) aprovados(as) não classificados(as) (lista de espera).
+11. DA MATRÍCULA E DOCUMENTAÇÃO (INALTERÁVEL – DEVE-SE APENAS PREENCHER
+OS CAMPOS)
+O(A) candidato(a) aprovado(a) e classificado(a) no processo seletivo deverá efetuar sua matrícula no período
+de 25 a 26 de Fevereiro de 2025, no horário das 08h às 17h, seguindo as instruções constantes na página do
+
+programa (https://www.computacao.ufcg.edu.br/mestrado-e-doutorado/processo-de-selecao/processo-de-
+seleção-2025-1-mestrado-e-doutorado-ppgcc).
+
+12. DA COMISSÃO DE SELEÇÃO
+A comissão de seleção será formada pelos seguintes professores do programa:
+Thiago Emmanuel Pereira da Cunha Silva – Presidente;
+Salatiel Dantas Silva;
+Everton Leandro Galdino Alves;
+Herman Martins Gomes;
+Lívia Maria Rodrigues Sampaio Campos;
+Rohit Gheyi.
+12.1. Sobre Membros da Comissão de Seleção
+Membros da comissão de seleção que perceberem algum impedimento para participar da comissão, como a
+existência de parente participando do processo seletivo, por exemplo, deverão solicitar sua exoneração ao
+Coordenador do PPGCC.
+13. DAS VAGAS E BOLSAS DE ESTUDO
+O Programa oferecerá 44 vagas, considerando a área de concentração e as áreas de pesquisa, conforme o
+Anexo III. Os(As) candidatos(as) selecionados como alunos(as) regulares poderão, caso haja
+disponibilidade, receber bolsa de estudos, desde que satisfaçam os critérios de concessão do órgão
+financiador e da Comissão de Bolsas do PPGCC.
+i) Não é obrigatório o preenchimento de todas as vagas previstas neste processo seletivo.
+ii) Para efeito de critério de desempate entre candidatos(as) admitidos(as) nesta seleção interessados(as) em
+alocação de bolsas, será utilizada a pontuação obtida segundo a Seção 5.4.
+13.1. Da reserva de vagas
+Do total de vagas oferecidas, 20% serão destinadas a candidatos(as) autodeclarados(as) de etnia negra, 5%
+serão destinadas a indígenas e quilombolas e 5% serão destinadas a pessoas com deficiência.
+i) Nos casos em que a aplicação dos percentuais de que trata este subitem resultarem em número fracionado,
+esse será aumentado para o primeiro número inteiro subsequente, em caso de fração igual ou maior que 0,5
+(cinco décimos), ou diminuído para número inteiro imediatamente inferior, em caso de fração menor que 0,5
+(cinco décimos).
+ii) Para concorrer às vagas reservadas, os(as) candidatos(as) deverão indicar, no ato da inscrição, o seu grupo
+de pertencimento: pessoa de etnia negra (preta ou parda); pessoa indígena ou quilombola; ou pessoa com
+deficiência.
+iii) O(A) candidato(a) que se enquadre em mais de um dos três grupos de concorrência restrita, deverá eleger
+apenas um deles.
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 6/11
+
+iv) Não será permitida a alteração da opção da modalidade de concorrência (ampla, de pessoas negras, de
+pessoas indígenas/quilombolas ou de pessoas com deficiência) no decorrer do processo.
+v) Os(As) candidatos(as) inscritos(as) para concorrência restrita concorrerão concomitantemente às vagas
+reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso.
+a. Os(As) candidatos(as) inscritos(as) para concorrência restrita aprovados dentro do número de vagas
+oferecido para ampla concorrência não serão computados para efeito do preenchimento das vagas
+reservadas.
+vi) As vagas reservadas remanescentes serão convertidas em vagas de Ampla Concorrência, considerando-se
+a ordem de classificação no Processo Seletivo.
+vii) Não há obrigatoriedade do preenchimento total das vagas ofertadas, caso o número de candidatos(as)
+aprovados(as) seja inferior ao total de vagas definido neste Edital.
+viii) A tabela do Anexo III mostra o quantitativo de vagas reservadas para a ampla concorrência, deficientes,
+indígenas/quilombolas e para as cotas destinadas a pessoas negras.
+13.1.1. Das vagas reservadas aos candidatos(as) autodeclarados(as) de etnia negra
+Um total de 20% das vagas de cada área de pesquisa, que contém pelo menos 3 vagas, foi destinado para
+candidatos autodeclarados(as) de etnia negra, em concordância com a Lei 12.990/2014.
+i) Para efeitos da da classificação (Seção 6, Alínea IV), o(a) primeiro(a) candidato(a) autodeclarado(a) de
+etnia negra classificado(a) nesta seleção será posicionado(a) na 3a posição no ranking de classificação,
+enquanto os demais serão posicionados na 8a, 13a, 18a posição e assim sucessivamente em ordem decrescente
+da pontuação obtida dentro da área escolhida.
+13.1.2. Das vagas reservadas aos candidatos(as) autodeclarados(as) indígenas e quilombolas e pessoas
+com deficiência
+Serão destinadas 2 vagas para candidatos(as) autodeclarados(as) indígenas e quilombolas e 2 vagas para
+pessoas com deficiência. As áreas de pesquisa com um total de mais de 5 vagas poderão receber uma vaga
+destinada a indígenas e quilombolas ou pessoas com deficiência.
+i) A distribuição do quantitativo de vagas para candidatos(as) autodeclarados(as) indígenas e quilombolas e
+para pessoas com deficiência, dar-se-á após o término das inscrições, por meio de sorteio público, e incidirá
+apenas nas áreas de pesquisa em que houverem candidatos indígenas e quilombolas ou pessoas com
+deficiência com inscrições deferidas.
+a. O sorteio público para um tipo de cota será dispensado quando apenas uma área tiver candidatos
+inscritos, neste caso as vagas serão alocadas para esta área até atingir o número de inscritos ou de vagas
+disponíveis.
+ii) O sorteio público primeiramente definirá, mediante sorteio, o tipo de cota (indígenas e quilombolas ou
+deficientes) que iniciará a distribuição das vagas reservadas.
+iii) Em seguida, as áreas de pesquisa serão sorteadas uma a uma. À medida que uma área de pesquisa é
+sorteada, uma vaga de cota é atribuída a ela e ela é excluída dos ciclos subsequentes de sorteio.
+a. Caso, após o sorteio de todas as áreas, ainda existam vagas remanescentes no tipo de cota, serão
+incluídas novamente no sorteio todas as áreas de pesquisa que tiverem candidatos inscritos, no tipo de
+cota, em número superior à quantidade de vagas já atribuídas para esse tipo de cota.
+iv) Para a realização do sorteio público será utilizado o site https://random.org e acontecerá no dia
+22/11/2024 às 10h, horário de Brasília.
+a. O sorteio será transmitido ao vivo via YouTube, ficando a transmissão gravada, e qualquer pessoa
+poderá acompanhar o procedimento. O link para a transmissão será publicado na página da Seleção no
+dia 21/11/2024.
+b. O sorteio será realizado por três membros da comissão de Seleção.
+c. Após a realização do sorteio, haverá a divulgação da Ata Pública do Sorteio na página da Seleção.
+v) Para efeitos da classificação (Seção 6, Alínea IV), o(a) primeiro(a) candidato(a) autodeclarados(a)
+indígena e quilombola ou pessoa com deficiência classificado(a) nesta seleção será posicionado(a) na 5a
+posição no ranking de classificação, enquanto os demais serão posicionados na 11a, 21a, 31a posição e assim
+sucessivamente em ordem decrescente da pontuação obtida dentro da área escolhida.
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 7/11
+
+14. DAS DISPOSIÇÕES GERAIS
+O presente edital poderá ser cancelado ou alterado, em parte ou no todo, a qualquer tempo, desde que
+motivos supervenientes assim o determinem, sem que isto venha a gerar direitos ou obrigações em relação
+aos(às) interessados(as).
+15. DOS CASOS OMISSOS
+Os casos omissos neste edital ou na legislação que regulamenta este processo seletivo serão tratados pela
+Câmara Superior de Pós-Graduação, mediante consulta do Colegiado do Programa, sem prejuízo das
+disposições do presente Edital.
+16. OS CANDIDATOS PODERÃO ENTRAR EM CONTATO COM A SECRETARIA DO
+PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCIA DA COMPUTAÇÃO NO ENDEREÇO
+ABAIXO:
+PPGCC/CEEI/UFCG
+Fones: (83) 2101-1124 ou 2101-1123
+E-mail: secpg@computacao.ufcg.edu.br
+Email da seleção: seleção.ppgcc@copin.ufcg.edu.br
+Site: https://www.computacao.ufcg.edu.br/mestrado-e-doutorado
+
+Campina Grande, 04 de outubro de 2024.
+
+MARIO EDUARDO RANGEL MOREIRA CAVALCANTI MATA
+
+Pró-Reitor de Pós-Graduação
+
+ANEXO I
+
+CRONOGRAMA DO PROCESSO SELETIVO 2025 DO PPGCC/UFCG
+
+Data / Período Evento
+04/10/24 Divulgação do edital
+Até 11/10/24 Prazo para impugnação do edital.
+16/10/24 Resultado da análise dos pedidos de impugnação.
+16/10/24 a
+08/11/24
+
+Período de inscrições.
+
+15/11/24 Divulgação do resultado da homologação das inscrições.
+18/11/24 a
+19/11/24
+
+Prazo para solicitação de reconsideração do resultado da homologação das inscrições (dois dias
+úteis, excluído o dia da divulgação do resultado).
+
+27/11/24 Divulgação do Resultado Parcial.
+02/12/24 a
+03/12/24
+
+Prazo para solicitação de reconsideração do resultado parcial (dois dias úteis, excluído o dia da
+divulgação do resultado).
+
+06/12/24 Divulgação do resultado final do processo seletivo com alocação.
+08/12/24 Prazo para solicitar mudança de lista de espera de área de pesquisa.
+08/12/24 a
+17/12/24
+
+Confirmação de interesse do candidato em participar do programa.
+
+25/02/25 a
+26/02/25
+
+Período de Matrícula (1o semestre).
+
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 8/11
+
+ANEXO II
+
+TABELA PARA CONVERSÃO DE NOTAS DO HISTÓRICO ACADÊMICO
+
+Caso não haja uma indicação no histórico de como realizar a conversão, a média escolar será computada de
+acordo com a tabela a seguir,considerando média ponderada pelos créditos da disciplina.
+
+Conceito Nota
+
+A ou A+ 10,0
+
+A- 9,0
+
+B ou B+ 8,5
+
+B- 8,0
+
+C ou C+ 7,5
+
+C- 7,0
+
+D ou D+ 6,5
+
+D- 6,0
+
+A conversão de conceitos não cobertos nesta tabela serão decididos pela comissão.
+
+ANEXO III
+
+QUANTITATIVO DE VAGAS RESERVADAS PARAAAMPLA CONCORRÊNCIA, DEFICIENTES
+E INDÍGENAS/QUILOMBOLAS E PARAAS COTAS DESTINADAS A PESSOAS NEGRAS
+
+O detalhamento das vagas oferecidas para o Mestrado do PPGCC/UFCG por orientador está disponível na
+
+página do programa (https://www.computacao.ufcg.edu.br/mestrado-e-doutorado/processo-de-
+selecao/processo-de-seleção-2025-1-mestrado-e-doutorado-ppgcc).
+
+10/16/24, 8:58 AM SEI/UFCG - 4859138 - Edital
+
+https://sei.ufcg.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=5... 9/11
+
+Áreas de Pesquisa
+
+Quantidade de Vagas
+
+Ampla, deficientes e indígenas Pessoas negras Total
+
+Engenharia de Software 8 2 10
+
+Inteligência Artificial 18 4 22
+
+Redes e Sistemas Distribuídos 6 2 8
+
+Sistemas de Informações e Banco de Dados 3 1 4
+
+Total 35 9 44
