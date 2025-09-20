@@ -1,2 +1,7 @@
 streamlit
 sentence-transformers
+langchain_community 
+huggingface_hub
+langchain
+openai
+langchain-openai
