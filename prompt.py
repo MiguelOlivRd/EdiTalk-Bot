@@ -8,4 +8,5 @@ Leia o contexto com cuidado. A resposta pode estar nele.
 Contexto = {context}
 Pergunta = {question}
 Se a resposta não estiver no contexto, responda "Não consigo responder a essa pergunta com minha base de informações".
+
 """.strip()
