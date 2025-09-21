@@ -1,0 +1,136 @@
+import { StyleSheet } from "react-native";
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "#F7FCFA",
+    paddingHorizontal: 0,
+    paddingTop: 0,
+  },
+  header: {
+    flexDirection: "row",
+    alignItems: "center",
+    height: 56,
+    paddingHorizontal: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: "#E5F5F0",
+    backgroundColor: "#F7FCFA",
+    marginTop: 7,
+  },
+  headerTitle: {
+    fontFamily: "PlusJakartaSans-Bold",
+    fontSize: 18,
+    color: "#0D1C17",
+    textAlign: "center",
+    flex: 1,
+    marginRight: 48,
+  },
+  infoText: {
+    fontSize: 16,
+    color: "#0D1C17",
+    marginTop: 16,
+    marginHorizontal: 16,
+    marginBottom: 8,
+    fontFamily: "PlusJakartaSans-Medium",
+  },
+  scrollableContent: {
+    flex: 1,
+  },
+  messageRow: {
+    flexDirection: "row",
+    alignItems: "flex-start",
+    marginBottom: 12,
+  },
+  avatar: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    marginRight: 8,
+  },
+  agentName: {
+    fontSize: 12,
+    color: "#2753A9",
+    fontFamily: "PlusJakartaSans-Bold",
+    marginBottom: 2,
+  },
+  agentMessageBubble: {
+    backgroundColor: "#E5F5F0",
+    borderRadius: 12,
+    paddingVertical: 8,
+    paddingHorizontal: 12,
+    maxWidth: "80%",
+  },
+  userMessageBubble: {
+    backgroundColor: "#2753A9",
+    borderRadius: 20,
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    maxWidth: "80%",
+  },
+  agentMessageText: {
+    paddingTop: 10,
+    fontSize: 15,
+    color: "#0D1C17",
+    fontFamily: "PlusJakartaSans-Medium",
+    minWidth: 250
+  },
+  quickQuestionsContainer: {
+    maxHeight: 140,
+    backgroundColor: "#E9EFF8",
+    flexDirection: "column",
+    paddingHorizontal: 16,
+    paddingTop: 8,
+    gap: 4,
+    overflowY: "auto",
+  },
+  quickQuestionButton: {
+    backgroundColor: "#B7CBE9",
+    borderRadius: 16,
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    alignSelf: "flex-start",
+    marginBottom: 8,
+  },
+  quickQuestionText: {
+    fontSize: 14,
+    color: "#0D1C17",
+    fontFamily: "PlusJakartaSans-Bold",
+    textAlign: "center",
+  },
+  inputArea: {
+    flexDirection: "row",
+    alignItems: "center",
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    marginBottom: 12,
+    backgroundColor: "#F7FCFA",
+  },
+  textInput: {
+    flex: 1,
+    height: 40,
+    backgroundColor: "#fff",
+    borderRadius: 16,
+    borderWidth: 1,
+    borderColor: "#E5F5F0",
+    paddingHorizontal: 16,
+    fontSize: 15,
+    fontFamily: "PlusJakartaSans-Medium",
+    color: "#0D1C17",
+  },
+  sendButton: {
+    marginLeft: 8,
+    backgroundColor: "#2753A9",
+    borderRadius: 16,
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  sendButtonText: {
+    color: "#fff",
+    fontSize: 15,
+    fontFamily: "PlusJakartaSans-Bold",
+  }
+});
+
+export default styles;
