@@ -5,3 +5,5 @@ huggingface_hub
 langchain
 openai
 langchain-openai
+fastapi
+uvicorn
