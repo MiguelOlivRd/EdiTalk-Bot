@@ -3,16 +3,25 @@ from pydantic import BaseModel
 import json
 import importlib
 import prompt
-import call_model_dell
+# import call_model_dell
+import call_model_gpt
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from scipy.spatial.distance import cosine
+from fastapi.middleware.cors import CORSMiddleware
+
+# import os
+# import load_dotenv
+
+# load_dotenv()
 
 # Reload modules
 importlib.reload(prompt)
-importlib.reload(call_model_dell)
+# importlib.reload(call_model_dell)
+importlib.reload(call_model_gpt)
 
 prompt = prompt.prompt
-call_model = call_model_dell.call_model
+# call_model = call_model_dell.call_model
+call_model = call_model_gpt.call_model
 # Load required data
 with open("representative_questions.json", "r", encoding="utf-8") as f:
     representative_questions = json.load(f)
@@ -74,12 +83,20 @@ def answer_question(question):
 
     full_prompt = prompt(edital_content, question)
 
-    answer = call_model_dell.call_model(full_prompt)
+    answer = call_model_gpt.call_model(full_prompt)
 
     return answer, edital_name
 
 # FastAPI setup
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # you can restrict to ["http://localhost:8081"] later
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class QuestionRequest(BaseModel):
     question: str

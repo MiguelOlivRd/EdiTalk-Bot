@@ -67,7 +67,6 @@ const Chat = () => {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          user_id: "789",
           question: messageToSend,
         }),
       });

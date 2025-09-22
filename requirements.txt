@@ -7,3 +7,5 @@ openai
 langchain-openai
 fastapi
 uvicorn
+load_dotenv
+# "uvicorn[standard]"
