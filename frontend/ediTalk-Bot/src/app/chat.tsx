@@ -60,6 +60,7 @@ const Chat = () => {
     setIsLoading(true);
 
     try {
+      console.log("Sending message to agent:", messageToSend);
       const response = await fetch(`${ agenteRota }`, {
         method: "POST",
         headers: {
@@ -67,7 +68,7 @@ const Chat = () => {
         },
         body: JSON.stringify({
           user_id: "789",
-          msg: messageToSend,
+          question: messageToSend,
         }),
       });
 
@@ -78,7 +79,7 @@ const Chat = () => {
       const data = await response.json();
       const agentMessage: Message = {
         id: Date.now().toString() + "-agent",
-        text: data.response || "Desculpe, não consegui processar sua mensagem.",
+        text: data.answer || "Desculpe, não consegui processar sua mensagem.",
         sender: "agent",
       };
       setMessages((prevMessages) => [...prevMessages, agentMessage]);

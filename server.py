@@ -11,6 +11,8 @@ from scipy.spatial.distance import cosine
 importlib.reload(prompt)
 importlib.reload(call_model_dell)
 
+prompt = prompt.prompt
+call_model = call_model_dell.call_model
 # Load required data
 with open("representative_questions.json", "r", encoding="utf-8") as f:
     representative_questions = json.load(f)
@@ -86,13 +88,14 @@ class AnswerResponse(BaseModel):
     answer: str
     edital_name: str
 
-@app.post("/chat", response_model=AnswerResponse)
+@app.post("/", response_model=AnswerResponse)
 async def chat(request: QuestionRequest):
     try:
         question = request.question
         answer, edital_name = answer_question(question)
         return AnswerResponse(answer=answer, edital_name=edital_name)
     except Exception as e:
+        print(f"Error: {str(e)}")
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 # To run the server, use: uvicorn filename:app --reload
