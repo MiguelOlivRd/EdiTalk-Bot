@@ -6,6 +6,7 @@ import prompt
 # import call_model_dell
 import call_model_gpt
 from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_openai.embeddings import OpenAIEmbeddings
 from scipy.spatial.distance import cosine
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -32,9 +33,12 @@ with open("edital_name_to_file_path.json", "r", encoding="utf-8") as f:
 # Initialize embeddings
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
+from tqdm import tqdm
+
 # Vector creation for question matching
+print("Creating vectors for representative questions...")
 vector_to_edital = []
-for edital in representative_questions["editais"].keys():
+for edital in tqdm(representative_questions["editais"].keys()):
     for question in representative_questions["editais"][edital]:
         vector = embeddings.embed_query(question)
         vector_to_edital.append((vector, edital))
@@ -57,7 +61,7 @@ def find_edital_by_question(question):
         else:
             editais_count[edital] = 1
 
-    if similarities[0][0] > 0.9:
+    if similarities[0][0] > 0.8:
         return similarities[0][1]
 
     max_count = -1
